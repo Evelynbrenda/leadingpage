@@ -1,4 +1,4 @@
-
+## LEADING PAGE
 
 Este projeto é uma **landing page simples**, criada para testar e explorar os recursos do **TailwindCSS**.  
 O foco principal foi aprender e experimentar **utilitários de estilização, responsividade e layout** oferecidos pelo framework.  
