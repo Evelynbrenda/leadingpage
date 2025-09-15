@@ -15,14 +15,12 @@ O foco principal foi aprender e experimentar **utilitários de estilização, re
 ## 🚀 Como Executar o Projeto  
 
 ### Opção 1 – Usando Live Server (VSCode ou similar)  
-```bash
+
 # Clone o repositório
 git clone https://github.com/seuusuario/landing-tailwind.git
 
 # Abra o projeto no VSCode
 # Execute com a extensão Live Server
-Opção 2 – Abrindo no navegador
-Abra o arquivo index.html diretamente no navegador
 
 📂 Estrutura do Projeto
 bash
@@ -46,8 +44,3 @@ Criar uma base para futuros projetos com Tailwind
 
 📄 Licença
 Este projeto é de uso livre para fins de estudo e aprendizado.
-
-scss
-Copiar código
-
-Quer que eu monte também uma **versão super minimalista** (só título, tecnologias e instruções) para projetos bem simples?
